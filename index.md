@@ -6,4 +6,4 @@
 
 ## [Github](https://github.com/manovisible)
 
-## Discord: visible#0545
+## Discord: visible#0515
